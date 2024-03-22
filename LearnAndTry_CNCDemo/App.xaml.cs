@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace LearnAndTry_CNCDema
+namespace LearnAndTry_CNCDemo
 {
     /// <summary>
     /// Interaction logic for App.xaml
